@@ -3,6 +3,10 @@
 
     <string name="app_name">Christmas Presents Assigner</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Christmas Presents Assigner</string>
+    <string name="name">Name</string>
+    <string name="buys_to">Buys To</string>
+    <string name="btnAddNameToList">Add</string>
+    <string name="btnAssign">Assign!</string>
 
 </resources>
